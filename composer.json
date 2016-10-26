@@ -1,5 +1,5 @@
 {
-    "name": "yiisoft/yii2-taobao",
+    "name": "ITsyc/yii2-taobao",
     "description": "The taobao plugin for the Yii framework",
     "keywords": ["yii2", "taobao"],
     "type": "yii2-extension",
