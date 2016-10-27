@@ -19,10 +19,5 @@
     "autoload": {
         "psr-4": { "yii\\taobao\\": "" }
     },
-    "minimum-stability": "stable",
-    "extra": {
-        "branch-alias": {
-            "stable-master": "1.0.1"
-        }
-    }
+    "minimum-stability": "stable"
 }
