@@ -20,4 +20,5 @@
         "psr-4": { "yii\\taobao\\": "" }
     },
     "minimum-stability": "stable"
+    
 }
