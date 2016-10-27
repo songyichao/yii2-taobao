@@ -16,7 +16,7 @@ $req = new AlibabaAliqinFcSmsNumSendRequest();
 $req->setExtend("123456");
 $req->setSmsType("normal");
 $req->setSmsFreeSignName("有票了");
-$req->setSmsParam("{\"code\":\"$code\"}");
+$req->setSmsParam("{\"code\":\"123123\"}");
 $req->setRecNum("13023232323");
 $req->setSmsTemplateCode("SMS_22910019");
 $resp = $c->execute($req);
