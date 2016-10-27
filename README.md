@@ -2,7 +2,7 @@
 将阿里大于api整合为yii扩展
 ## 安装
 ```shell
-composer require itsyc/yii2-taobao
+composer require itsyc/yii2-taobao dev-master
 ```
 ## 使用
 发送短信验证码的接口
