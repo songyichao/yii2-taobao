@@ -1,6 +1,6 @@
 {
     "name": "itsyc/yii2-taobao",
-    "description": "The taobao plugin for the Yii framework",
+    "description": "The taobao plugin for the PHP",
     "keywords": ["yii2", "taobao"],
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
