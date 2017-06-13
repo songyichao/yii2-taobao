@@ -1,5 +1,5 @@
 # yii2-taobao
-将阿里大于api整合为yii扩展
+将阿里大于api整合为composer扩展（虽然名称是yii只要是composer就可以安装使用）
 ## 安装
 ```shell
 composer require itsyc/yii2-taobao dev-master
